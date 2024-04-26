@@ -31,8 +31,6 @@ To run the Currency Converter locally, follow these steps:
     ```bash 
     git clone https://github.com/Aryesh404/Currency-Converter
 
-
-
 2. Open the index.html file in your preferred web browser.
 
 

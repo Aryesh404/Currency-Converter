@@ -34,4 +34,4 @@ To run the Currency Converter locally, follow these steps:
 2. Open the index.html file in your preferred web browser.
 
 
-### Thank you for checking out the Currency Converter project! Feel free to contribute, report issues, or provide feedback. Happy converting! 😊
+#### Thank you for checking out the Currency Converter project! Feel free to contribute, report issues, or provide feedback. Happy converting! 😊

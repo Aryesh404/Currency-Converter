@@ -28,8 +28,8 @@ To run the Currency Converter locally, follow these steps:
 1. Clone the repository:
 
   
-```bash 
-git clone https://github.com/Aryesh404/Currency-Converter
+    ```bash 
+    git clone https://github.com/Aryesh404/Currency-Converter
 
 
 
